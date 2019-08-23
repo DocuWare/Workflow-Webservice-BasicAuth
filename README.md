@@ -6,3 +6,5 @@ The use of basic authentication is a new feature included in __DocuWare 7.1__ fo
 ## Todo before start
 In [BasicAuthHttpModule.cs](https://github.com/DocuWare/Workflow-Webservice-BasicAuth/blob/master/SampleWebServiceWithBasicAuth/BasicAuthHttpModule.cs) on method "_CheckPassword_" you'll find the current validation for username and password.\
 __Edit this part__ for your individual needs, e.g. checking with database, ActiveDirectory or LDAP.
+
+Take also a look to our [How to configure IIS](https://www.docuware.com/main.asp?sig=dld&lan=en&loc=de&dwdblan=english&dwdbkat=do*&dwdbname=sample+web+service+how-to)
