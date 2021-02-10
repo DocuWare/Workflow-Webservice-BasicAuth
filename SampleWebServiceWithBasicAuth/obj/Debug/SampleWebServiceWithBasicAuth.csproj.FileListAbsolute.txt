@@ -1,7 +1,0 @@
-C:\Temp\new\SampleWebService\SampleWebServiceWithBasicAuth\bin\SampleWebServiceWithBasicAuth.dll.config
-C:\Temp\new\SampleWebService\SampleWebServiceWithBasicAuth\bin\SampleWebServiceWithBasicAuth.dll
-C:\Temp\new\SampleWebService\SampleWebServiceWithBasicAuth\bin\SampleWebServiceWithBasicAuth.pdb
-C:\Temp\new\SampleWebService\SampleWebServiceWithBasicAuth\obj\Debug\SampleWebServiceWithBasicAuth.csprojAssemblyReference.cache
-C:\Temp\new\SampleWebService\SampleWebServiceWithBasicAuth\obj\Debug\SampleWebServiceWithBasicAuth.csproj.CoreCompileInputs.cache
-C:\Temp\new\SampleWebService\SampleWebServiceWithBasicAuth\obj\Debug\SampleWebServiceWithBasicAuth.dll
-C:\Temp\new\SampleWebService\SampleWebServiceWithBasicAuth\obj\Debug\SampleWebServiceWithBasicAuth.pdb
